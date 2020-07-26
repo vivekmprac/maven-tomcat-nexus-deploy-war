@@ -1,0 +1,16 @@
+Jul 25, 2020 5:50:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 25, 2020 5:50:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Global resources are available
+Jul 25, 2020 5:50:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 25, 2020 6:15:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 25, 2020 6:15:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jul 25, 2020 6:15:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/webapp'
+Jul 25, 2020 6:15:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /opt/tomcat/webapps/webapp.war
+Jul 25, 2020 6:16:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
